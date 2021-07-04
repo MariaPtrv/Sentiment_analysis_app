@@ -1,0 +1,10 @@
+C:\Users\by_na\source\repos\Tomita\Tomita\bin\Debug\Tomita.exe.config
+C:\Users\by_na\source\repos\Tomita\Tomita\bin\Debug\Tomita.exe
+C:\Users\by_na\source\repos\Tomita\Tomita\bin\Debug\Tomita.pdb
+C:\Users\by_na\source\repos\Tomita\Tomita\obj\Debug\Tomita.csprojAssemblyReference.cache
+C:\Users\by_na\source\repos\Tomita\Tomita\obj\Debug\Tomita.Form1.resources
+C:\Users\by_na\source\repos\Tomita\Tomita\obj\Debug\Tomita.Properties.Resources.resources
+C:\Users\by_na\source\repos\Tomita\Tomita\obj\Debug\Tomita.csproj.GenerateResource.cache
+C:\Users\by_na\source\repos\Tomita\Tomita\obj\Debug\Tomita.csproj.CoreCompileInputs.cache
+C:\Users\by_na\source\repos\Tomita\Tomita\obj\Debug\Tomita.exe
+C:\Users\by_na\source\repos\Tomita\Tomita\obj\Debug\Tomita.pdb
